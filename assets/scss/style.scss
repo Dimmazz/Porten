@@ -750,7 +750,7 @@ $screen-mobile: 320px;
 // .about__desc {}
 
 .about__category {
-  // max-width: 340px;
+  max-width: 340px;
   
   @media (max-width: $screen-mobile) {
     text-align: center;

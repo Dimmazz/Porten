@@ -1,7 +1,8 @@
 # Porten
 
 **Junior Front-end developer -** ***MazuSad*** 
-[***View all my projects in portfolio***](https://dimmazz.github.io/portfolio/)
+- [***View all my projects in portfolio***](https://dimmazz.github.io/portfolio/)
+- [**View this project**]()
 
 # Stack of project:
 
