@@ -6,14 +6,11 @@
 
 # Stack of project:
 
-- *Html / Css / JavaScript*
-- *Scss*
+- *Html / Scss / JavaScript*
 - *Git*
-- *breadcrumbs (Schema.org)*
 - *Figma* [*(Layout)*](https://www.figma.com/file/lYNreDDzQbLuz6TyCALJOc/Templates-%2317)
 
 # Social
-
 
 [**Telegram**](https://t.me/MazuSad)
 [**Email**](mailto:zaskok20@yandex.ru) | *zaskok20@yandex.ru*
